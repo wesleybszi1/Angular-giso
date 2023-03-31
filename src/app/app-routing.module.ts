@@ -9,7 +9,7 @@ import { FinanceComponent } from "./views/finance/finance.component";
 const routes: Routes = [
   {
     path: "home",
-    component: HomeComponent,
+    component: ProductCrudComponent,
   },
   {
     path: "products",
